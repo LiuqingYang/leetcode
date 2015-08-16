@@ -1,4 +1,4 @@
-// This is the wrong answer
+// This is the reverse answer
 
 #include <string.h>
 #include <stdio.h>
