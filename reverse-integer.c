@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/reverse-integer/
+// Yang Liuqing
 // yllqq@outlook.com
 
 //Be careful about int overflow
