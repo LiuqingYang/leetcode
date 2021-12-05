@@ -1,6 +1,4 @@
 // https://leetcode.com/problems/letter-combinations-of-a-phone-number/
-// Yang Liuqing
-// yllqq@outlook.com
 
 // careful boundary of input and array
 
