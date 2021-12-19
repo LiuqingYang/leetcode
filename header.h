@@ -8,6 +8,8 @@
 #include <algorithm>
 #include <utility>
 #include <bitset>
+#include <map>
+#include <unordered_map>
 
 using namespace std;
 
@@ -34,3 +36,4 @@ struct ListNode {
 #include <stdbool.h>
 #include <string.h>
 #include <assert.h>
+#include <math.h>
