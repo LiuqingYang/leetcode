@@ -1,0 +1,14 @@
+// https://leetcode.com/problems/smallest-integer-divisible-by-k/
+
+#include "header.h"
+
+class Solution {
+public:
+    int smallestRepunitDivByK(int k) {
+        int r = 0;
+        for (int N = 1; N <= k; ++N)
+            if ((r = (r * 10 + 1) % k) == 0)
+                return N;
+        return -1;
+    }
+};
